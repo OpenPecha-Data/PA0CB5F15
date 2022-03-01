@@ -1,0 +1,1446 @@
+id: PA0CB5F15
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 3,0: Bhikṣuṇīprātimokṣa'
+  language: bo
+  volumes:
+    eb61226bc32d4468868887ff9c7b7a42:
+      title: CI_Adhikaraṇaśamatha 1
+      base_file: CI_Adhikaraṇaśamatha 1.txt
+      work_id: WCC74D71D
+    32bafba8915e4dd580b0037e809da956:
+      title: CI_Adhikaraṇaśamatha 2
+      base_file: CI_Adhikaraṇaśamatha 2.txt
+      work_id: WAAD1A7D6
+    aa2eb666ef9e4b9884abfba4fbbdccc7:
+      title: CI_Adhikaraṇaśamatha 3
+      base_file: CI_Adhikaraṇaśamatha 3.txt
+      work_id: WF360B544
+    58e18ef364474c20827085cf99abffee:
+      title: CI_Adhikaraṇaśamatha 4
+      base_file: CI_Adhikaraṇaśamatha 4.txt
+      work_id: W04BDC300
+    28ebd5e18abe43cb82a7ddb4663707fe:
+      title: CI_Adhikaraṇaśamatha 5
+      base_file: CI_Adhikaraṇaśamatha 5.txt
+      work_id: W42E0C4EE
+    7f9ef5878d114e7091242477e5e6e225:
+      title: CI_Adhikaraṇaśamatha 6
+      base_file: CI_Adhikaraṇaśamatha 6.txt
+      work_id: W342D40B6
+    5d420672ffc2479a9ac24c4a873783cf:
+      title: CI_Adhikaraṇaśamatha 7
+      base_file: CI_Adhikaraṇaśamatha 7.txt
+      work_id: W37597778
+    4653d9ca511046549afcfbf8bf8ef06c:
+      title: CI_Colophon
+      base_file: CI_Colophon.txt
+      work_id: WAD1C63F6
+    f0e9a537390c43a39685d49b2f19d533:
+      title: CI_Concluding verses
+      base_file: CI_Concluding verses.txt
+      work_id: W0E0A3E97
+    badf63e4b5ec4612bf55a553ec8f9cbf:
+      title: CI_Formula
+      base_file: CI_Formula.txt
+      work_id: W363A42AE
+    da02205de21c4182953b05c9b9e56b51:
+      title: CI_Naiḥsargika 1
+      base_file: CI_Naiḥsargika 1.txt
+      work_id: WBD3F4860
+    b904cce2cc3a407bbf20f3c86b9285ab:
+      title: CI_Naiḥsargika 10
+      base_file: CI_Naiḥsargika 10.txt
+      work_id: W0786B254
+    68a2cb97427b486babadd555a6a15070:
+      title: CI_Naiḥsargika 11
+      base_file: CI_Naiḥsargika 11.txt
+      work_id: WDD296F88
+    b96371ff188047d382398609233b9faa:
+      title: CI_Naiḥsargika 12
+      base_file: CI_Naiḥsargika 12.txt
+      work_id: W4712ABBE
+    9042c02468d64cfabcd9a322e6e8b23c:
+      title: CI_Naiḥsargika 13
+      base_file: CI_Naiḥsargika 13.txt
+      work_id: W03B6FB4C
+    1a0da511a5c5409f9ea06afb925c649b:
+      title: CI_Naiḥsargika 14
+      base_file: CI_Naiḥsargika 14.txt
+      work_id: W6CC016C5
+    44d0fe074d9444e98975c4c3f2366c58:
+      title: CI_Naiḥsargika 15
+      base_file: CI_Naiḥsargika 15.txt
+      work_id: W8E449924
+    be41cfe6056e4d84b0982750d53daf37:
+      title: CI_Naiḥsargika 16
+      base_file: CI_Naiḥsargika 16.txt
+      work_id: WA418DCFC
+    f90f814cc10f4abc826cb4dcf74db9b3:
+      title: CI_Naiḥsargika 17
+      base_file: CI_Naiḥsargika 17.txt
+      work_id: WC7090390
+    3e8fed319fee4d2c80ca55cbbf40bb38:
+      title: CI_Naiḥsargika 18
+      base_file: CI_Naiḥsargika 18.txt
+      work_id: WBC4141CB
+    dce7e1ee39084bfe9256221fc5aa6d80:
+      title: CI_Naiḥsargika 19
+      base_file: CI_Naiḥsargika 19.txt
+      work_id: WDD6D6649
+    1cb0ec9f93f9420593901c60942a4c7c:
+      title: CI_Naiḥsargika 2
+      base_file: CI_Naiḥsargika 2.txt
+      work_id: W0ABA8A84
+    784b20da827749aca099c2791310ed66:
+      title: CI_Naiḥsargika 20
+      base_file: CI_Naiḥsargika 20.txt
+      work_id: WBEBF59FC
+    faf1c20114a748efbe6cb67245340ea1:
+      title: CI_Naiḥsargika 21
+      base_file: CI_Naiḥsargika 21.txt
+      work_id: W9FDB8E43
+    f43d5adfcf374d1498d22e04bde3ccc3:
+      title: CI_Naiḥsargika 22
+      base_file: CI_Naiḥsargika 22.txt
+      work_id: WB23DB374
+    d2e49b2534a041349ca982dab5866609:
+      title: CI_Naiḥsargika 23
+      base_file: CI_Naiḥsargika 23.txt
+      work_id: WE5E277F7
+    15acd9a3d4b34478b5e923c94ba86817:
+      title: CI_Naiḥsargika 24
+      base_file: CI_Naiḥsargika 24.txt
+      work_id: W4B1EC04F
+    e0db0c5c10e64195870dd59f8f02edf2:
+      title: CI_Naiḥsargika 25
+      base_file: CI_Naiḥsargika 25.txt
+      work_id: W3C453B99
+    f654b4ac00904f3a9c4faa91222eb70f:
+      title: CI_Naiḥsargika 26
+      base_file: CI_Naiḥsargika 26.txt
+      work_id: W1A434A75
+    03a15b654752420eb0901e99e65ad6a8:
+      title: CI_Naiḥsargika 27
+      base_file: CI_Naiḥsargika 27.txt
+      work_id: W2078A019
+    6d4008d037b348c9a3edddf07d2d65ad:
+      title: CI_Naiḥsargika 28
+      base_file: CI_Naiḥsargika 28.txt
+      work_id: W1F603F4C
+    19ae00fc92e54d818149e43a5cc9fcd9:
+      title: CI_Naiḥsargika 29
+      base_file: CI_Naiḥsargika 29.txt
+      work_id: W14BE05BA
+    beabeab4838b42daaebea9d4b6bc272f:
+      title: CI_Naiḥsargika 3
+      base_file: CI_Naiḥsargika 3.txt
+      work_id: W83A477FC
+    9a88262d3196455d9af57c5d3abe8f27:
+      title: CI_Naiḥsargika 30
+      base_file: CI_Naiḥsargika 30.txt
+      work_id: W5AC10CE6
+    01cb01437c6f46b1ada710e360b4c748:
+      title: CI_Naiḥsargika 31
+      base_file: CI_Naiḥsargika 31.txt
+      work_id: WA99C9275
+    8e937826311a4b12899d0aead6620602:
+      title: CI_Naiḥsargika 32
+      base_file: CI_Naiḥsargika 32.txt
+      work_id: WA01A19A4
+    a2c670a0f6b9405ab32a34d7bdec01f0:
+      title: CI_Naiḥsargika 33
+      base_file: CI_Naiḥsargika 33.txt
+      work_id: W53043EB9
+    56130f684e7e46a9b7ba021cbaf8c536:
+      title: CI_Naiḥsargika 4
+      base_file: CI_Naiḥsargika 4.txt
+      work_id: WEEF58E5E
+    c30b20eb541c4b069e23a736cac1435b:
+      title: CI_Naiḥsargika 5
+      base_file: CI_Naiḥsargika 5.txt
+      work_id: WA47388AF
+    63f33b124800439289717b59c0c0cc31:
+      title: CI_Naiḥsargika 6
+      base_file: CI_Naiḥsargika 6.txt
+      work_id: W22733DC2
+    5a3efd125daf4b978b26aff9333d9663:
+      title: CI_Naiḥsargika 7
+      base_file: CI_Naiḥsargika 7.txt
+      work_id: W66B07F67
+    97396439d92f4fd3889e8d8fc53fd2fa:
+      title: CI_Naiḥsargika 8
+      base_file: CI_Naiḥsargika 8.txt
+      work_id: WA44DDE44
+    11e1bcf082c6469b9ac5c30b120b4f98:
+      title: CI_Naiḥsargika 9
+      base_file: CI_Naiḥsargika 9.txt
+      work_id: WE6AA416A
+    153f4dc8853c48d088bac389de8d6f68:
+      title: CI_Pārājika 1
+      base_file: CI_Pārājika 1.txt
+      work_id: W487F31F5
+    50db75c7a8084326ae83dc211997ec59:
+      title: CI_Pārājika 2
+      base_file: CI_Pārājika 2.txt
+      work_id: WAC06750F
+    1968b35050594e7a96ad8ff82952f5c6:
+      title: CI_Pārājika 3
+      base_file: CI_Pārājika 3.txt
+      work_id: W3B047788
+    faa486f1018d40ee964b05ac9281df8f:
+      title: CI_Pārājika 4
+      base_file: CI_Pārājika 4.txt
+      work_id: WEA316A9B
+    2fcda036cdbf4fd5afe0c4d0aeec59be:
+      title: CI_Pārājika 5
+      base_file: CI_Pārājika 5.txt
+      work_id: WE899D644
+    7c15989875e2445e99446961c66042d4:
+      title: CI_Pārājika 6
+      base_file: CI_Pārājika 6.txt
+      work_id: W046FB4CF
+    5f053470e2e2465fa8324147c725b4be:
+      title: CI_Pārājika 7
+      base_file: CI_Pārājika 7.txt
+      work_id: WA0A00AEA
+    45abbe1e183f48fda7d1ce4e5f2f081c:
+      title: CI_Pārājika 8
+      base_file: CI_Pārājika 8.txt
+      work_id: W33E7FD5D
+    020782c4f86a492a832030af6ab108ff:
+      title: CI_Pāyantika 1
+      base_file: CI_Pāyantika 1.txt
+      work_id: W6D8DDF2E
+    f7d5b344dc83432a87ba999c01064686:
+      title: CI_Pāyantika 10
+      base_file: CI_Pāyantika 10.txt
+      work_id: WEB180174
+    35c7acb1060042eaa8a554bfdc7d58e0:
+      title: CI_Pāyantika 100
+      base_file: CI_Pāyantika 100.txt
+      work_id: W78B74A3C
+    df0ab0ff5bad42e2877c0d8b949c57af:
+      title: CI_Pāyantika 101
+      base_file: CI_Pāyantika 101.txt
+      work_id: W50C8F94A
+    c2cd774c43cb412294ccf020741212a4:
+      title: CI_Pāyantika 102
+      base_file: CI_Pāyantika 102.txt
+      work_id: WE48A078A
+    2bb267671c1b4d0fb2cc262e67880fb8:
+      title: CI_Pāyantika 103
+      base_file: CI_Pāyantika 103.txt
+      work_id: W565C0D01
+    2201655dc63344268123e22d782b706e:
+      title: CI_Pāyantika 104
+      base_file: CI_Pāyantika 104.txt
+      work_id: W2099DA64
+    33a852c5a49c4f399b14e85fe23a7bd1:
+      title: CI_Pāyantika 105
+      base_file: CI_Pāyantika 105.txt
+      work_id: W0BAA2C38
+    22b7e088578c4b868015e7369934fb2c:
+      title: CI_Pāyantika 106
+      base_file: CI_Pāyantika 106.txt
+      work_id: W8F8F8C56
+    797b6841bc404b00b8b40f5bc3eb8404:
+      title: CI_Pāyantika 107
+      base_file: CI_Pāyantika 107.txt
+      work_id: W2ACC0E0C
+    61f7f78c22094cc2bc8c16e2d67a140a:
+      title: CI_Pāyantika 108
+      base_file: CI_Pāyantika 108.txt
+      work_id: W86DE7561
+    bece11569de84526be99e99655544a90:
+      title: CI_Pāyantika 109
+      base_file: CI_Pāyantika 109.txt
+      work_id: WC5F64ABF
+    3408ac0ed54345b3aff9e76e2065aa7f:
+      title: CI_Pāyantika 11
+      base_file: CI_Pāyantika 11.txt
+      work_id: WEDCD0A40
+    a7d8574096a3425599b2c056b800c7c2:
+      title: CI_Pāyantika 110
+      base_file: CI_Pāyantika 110.txt
+      work_id: WC3ECCB43
+    cf3553d05e004c90a8851b75be042f7c:
+      title: CI_Pāyantika 111
+      base_file: CI_Pāyantika 111.txt
+      work_id: W3D271BD5
+    6255e166763047d7bd8790f849688b03:
+      title: CI_Pāyantika 112
+      base_file: CI_Pāyantika 112.txt
+      work_id: WE4E47883
+    0d5130fa2c4b41f2bd6f99ea52dfca05:
+      title: CI_Pāyantika 113
+      base_file: CI_Pāyantika 113.txt
+      work_id: W742D39A6
+    5d8b7d938022409f9fa79ce30aa94793:
+      title: CI_Pāyantika 114
+      base_file: CI_Pāyantika 114.txt
+      work_id: WF3E2FBCD
+    47497b65e34a483f877191e5e5cdc482:
+      title: CI_Pāyantika 115
+      base_file: CI_Pāyantika 115.txt
+      work_id: WDFAF82FB
+    bab3b0e299c6407a839eabf2539b83dc:
+      title: CI_Pāyantika 116
+      base_file: CI_Pāyantika 116.txt
+      work_id: WDD7AB6A8
+    a011ddd20e11414c986db60d6a85c8d3:
+      title: CI_Pāyantika 117
+      base_file: CI_Pāyantika 117.txt
+      work_id: W717F866D
+    c75a1cd883d2460aaa2ab91651b40b09:
+      title: CI_Pāyantika 118
+      base_file: CI_Pāyantika 118.txt
+      work_id: W04F9B46C
+    f082f2d02bc24c48a0baa56d0426d8bf:
+      title: CI_Pāyantika 119
+      base_file: CI_Pāyantika 119.txt
+      work_id: W40B06FEE
+    ae3989f135b74821a95888a304eb4315:
+      title: CI_Pāyantika 12
+      base_file: CI_Pāyantika 12.txt
+      work_id: W34A22711
+    fe93b9f7a8db47aaac86a87300ff6d40:
+      title: CI_Pāyantika 120
+      base_file: CI_Pāyantika 120.txt
+      work_id: W04CFB6FF
+    339d5639510c427682af2bb868ddc061:
+      title: CI_Pāyantika 121
+      base_file: CI_Pāyantika 121.txt
+      work_id: WF50BAC41
+    74b49c02ab034d14ab8d602bad8a77f8:
+      title: CI_Pāyantika 122
+      base_file: CI_Pāyantika 122.txt
+      work_id: WAA4D0284
+    62b058264d9847edada2dfe024871166:
+      title: CI_Pāyantika 123
+      base_file: CI_Pāyantika 123.txt
+      work_id: W9445400A
+    688d75a3e7fe4e2396654c84f9e7d508:
+      title: CI_Pāyantika 124
+      base_file: CI_Pāyantika 124.txt
+      work_id: WF04F0022
+    1cc201ff378d4b1996c8f909888f57a5:
+      title: CI_Pāyantika 125
+      base_file: CI_Pāyantika 125.txt
+      work_id: WAE29F926
+    6f34d23df64b45689d8b29cfb4c2af22:
+      title: CI_Pāyantika 126
+      base_file: CI_Pāyantika 126.txt
+      work_id: W949166A9
+    b2ff060bb0ea41f0806ada1af3542bfe:
+      title: CI_Pāyantika 127
+      base_file: CI_Pāyantika 127.txt
+      work_id: W431A30A9
+    8f86e9a885ec4a3d86369192fe4e704c:
+      title: CI_Pāyantika 128
+      base_file: CI_Pāyantika 128.txt
+      work_id: WF11FFF18
+    73ecb3c80b0742a7a2ac8d63115bbec4:
+      title: CI_Pāyantika 129
+      base_file: CI_Pāyantika 129.txt
+      work_id: WAF3F625F
+    af0092d25f034d7f9868f2727f2288dd:
+      title: CI_Pāyantika 13
+      base_file: CI_Pāyantika 13.txt
+      work_id: W2E82B865
+    87f2f52aa7474966a2e8c5448ad86a3b:
+      title: CI_Pāyantika 130
+      base_file: CI_Pāyantika 130.txt
+      work_id: W4AB6167B
+    0e108178aa284db3afe81fd34cb82ee6:
+      title: CI_Pāyantika 131
+      base_file: CI_Pāyantika 131.txt
+      work_id: W00999A94
+    53f202a03cb647078d0655d0696ef94a:
+      title: CI_Pāyantika 132
+      base_file: CI_Pāyantika 132.txt
+      work_id: W04AF3AFF
+    9a313c4c29f746d6b0c203ee0862eff9:
+      title: CI_Pāyantika 133
+      base_file: CI_Pāyantika 133.txt
+      work_id: WBE53CE0C
+    1f3e5997234a4a1db23bb6c8b94ef796:
+      title: CI_Pāyantika 134
+      base_file: CI_Pāyantika 134.txt
+      work_id: W3F14F10D
+    b6253378534f4cceaf30e2625eb542b2:
+      title: CI_Pāyantika 135
+      base_file: CI_Pāyantika 135.txt
+      work_id: W18044E49
+    bc3784e79fb448e8ac12ce51d33db2a8:
+      title: CI_Pāyantika 136
+      base_file: CI_Pāyantika 136.txt
+      work_id: W4DD84D48
+    f3258d4d7c59497187e8bbac303b0c81:
+      title: CI_Pāyantika 137
+      base_file: CI_Pāyantika 137.txt
+      work_id: WBDB86778
+    f19737e222144034951e54aba90b4734:
+      title: CI_Pāyantika 138
+      base_file: CI_Pāyantika 138.txt
+      work_id: WF119635D
+    ebecd5a5b9f84b18b39590a4acad7e3f:
+      title: CI_Pāyantika 139
+      base_file: CI_Pāyantika 139.txt
+      work_id: W44A4B240
+    950a84d6f6f043b9b557c3730d4f06e1:
+      title: CI_Pāyantika 14
+      base_file: CI_Pāyantika 14.txt
+      work_id: WD37F0F45
+    047aa7aa6bf94c1caab2f55accb70931:
+      title: CI_Pāyantika 140
+      base_file: CI_Pāyantika 140.txt
+      work_id: W033C2053
+    c797bc2732b3440da6570a9ea93f9fae:
+      title: CI_Pāyantika 141
+      base_file: CI_Pāyantika 141.txt
+      work_id: W5E8F31B5
+    95caa29bd25343fca86f127c6512c89b:
+      title: CI_Pāyantika 142
+      base_file: CI_Pāyantika 142.txt
+      work_id: W0E19294E
+    7a2ca998733b47e99cdf24c716356140:
+      title: CI_Pāyantika 143
+      base_file: CI_Pāyantika 143.txt
+      work_id: W1ABADC11
+    a1544c8a06384f288264676152efc2a1:
+      title: CI_Pāyantika 144
+      base_file: CI_Pāyantika 144.txt
+      work_id: WB436A326
+    0928d9940515466694da41910297da87:
+      title: CI_Pāyantika 145
+      base_file: CI_Pāyantika 145.txt
+      work_id: W58528871
+    ff73b516efe642d5a36d210ba8103ece:
+      title: CI_Pāyantika 146
+      base_file: CI_Pāyantika 146.txt
+      work_id: W1F3489C5
+    f9fafc92a11640348ed3d40c3ce9f908:
+      title: CI_Pāyantika 147
+      base_file: CI_Pāyantika 147.txt
+      work_id: W0240242A
+    71027f1848624c568f7d4fc944397fd0:
+      title: CI_Pāyantika 148
+      base_file: CI_Pāyantika 148.txt
+      work_id: WA44ECD73
+    026db69d2fac4754bd23814d1ce0bed9:
+      title: CI_Pāyantika 149
+      base_file: CI_Pāyantika 149.txt
+      work_id: W2B41B645
+    4ef708cb0a1d4a16871b3fe6eff214b9:
+      title: CI_Pāyantika 15
+      base_file: CI_Pāyantika 15.txt
+      work_id: W34E37074
+    f60026a824064fe4a1668f65b71ed940:
+      title: CI_Pāyantika 150
+      base_file: CI_Pāyantika 150.txt
+      work_id: W461582B0
+    bf7fa85f694745259177687fcd884b58:
+      title: CI_Pāyantika 151
+      base_file: CI_Pāyantika 151.txt
+      work_id: WF04BD28D
+    e1e554981f5d41e898aa80e6fd6e8d53:
+      title: CI_Pāyantika 152
+      base_file: CI_Pāyantika 152.txt
+      work_id: W96680D00
+    38a7b6c5820d4bd78e790995db9fba01:
+      title: CI_Pāyantika 153
+      base_file: CI_Pāyantika 153.txt
+      work_id: WD7237979
+    fd7332f69b75495dbb0b10a603186ed4:
+      title: CI_Pāyantika 154
+      base_file: CI_Pāyantika 154.txt
+      work_id: W91CC6F1F
+    3f2ec9f577a24da7959403461d30b8d2:
+      title: CI_Pāyantika 155
+      base_file: CI_Pāyantika 155.txt
+      work_id: W041A4A0B
+    d2da64229cae4d99b3ac070d25581e6d:
+      title: CI_Pāyantika 156
+      base_file: CI_Pāyantika 156.txt
+      work_id: W9F90BD4B
+    5c3c2d6135b74164a1bd77b8a78995eb:
+      title: CI_Pāyantika 157
+      base_file: CI_Pāyantika 157.txt
+      work_id: WF3B3621B
+    842be9c6caf34d128910366320e316fd:
+      title: CI_Pāyantika 158
+      base_file: CI_Pāyantika 158.txt
+      work_id: W827F33FB
+    e1fd80b5d6d74292a1108f13507b4f3a:
+      title: CI_Pāyantika 159
+      base_file: CI_Pāyantika 159.txt
+      work_id: W5AE0D2A6
+    514354eed81744bb8b44cfc7ca973588:
+      title: CI_Pāyantika 16
+      base_file: CI_Pāyantika 16.txt
+      work_id: W0839AB8B
+    8f927f4987c9478c8a57491b34c5f9a7:
+      title: CI_Pāyantika 160
+      base_file: CI_Pāyantika 160.txt
+      work_id: W81A94212
+    fd200521b7b74384b73e038f26ce7e9d:
+      title: CI_Pāyantika 161
+      base_file: CI_Pāyantika 161.txt
+      work_id: W2FC4A820
+    0c726aea86714042a36ed9bbd40ffd6b:
+      title: CI_Pāyantika 162
+      base_file: CI_Pāyantika 162.txt
+      work_id: W9C098B38
+    d733dee9d29a46cba88308b1fd570cd8:
+      title: CI_Pāyantika 163
+      base_file: CI_Pāyantika 163.txt
+      work_id: WDCDB258E
+    cab390a3be734e02b30fa5b8b49e81a7:
+      title: CI_Pāyantika 164
+      base_file: CI_Pāyantika 164.txt
+      work_id: W2084C25F
+    068ab18aca6642a3ae816dd0a691bca0:
+      title: CI_Pāyantika 165
+      base_file: CI_Pāyantika 165.txt
+      work_id: W84B05B85
+    7d7506e6eacb47a9b75a46e9b382ad64:
+      title: CI_Pāyantika 166
+      base_file: CI_Pāyantika 166.txt
+      work_id: W6524BDAC
+    880d4d41a9934a5db17617fcdc22cc18:
+      title: CI_Pāyantika 167
+      base_file: CI_Pāyantika 167.txt
+      work_id: WC8B809F0
+    61780ad0835d4e9582c78e17feb0dcc5:
+      title: CI_Pāyantika 168
+      base_file: CI_Pāyantika 168.txt
+      work_id: WE0785C84
+    70de70187afd4a1eba21c84242017cca:
+      title: CI_Pāyantika 169
+      base_file: CI_Pāyantika 169.txt
+      work_id: W445BB7F2
+    3ef13ca2e6a241aaab9d50e4b4a84878:
+      title: CI_Pāyantika 17
+      base_file: CI_Pāyantika 17.txt
+      work_id: W67043ECB
+    995c109b51114c31b4329ea1e9359688:
+      title: CI_Pāyantika 170
+      base_file: CI_Pāyantika 170.txt
+      work_id: WC48913F9
+    1e35c47d0dcc4228b6367920557baf1d:
+      title: CI_Pāyantika 171
+      base_file: CI_Pāyantika 171.txt
+      work_id: W50879020
+    3a91ffeb5a9741f2ab8843dbcf502171:
+      title: CI_Pāyantika 172
+      base_file: CI_Pāyantika 172.txt
+      work_id: WD5B0BCFD
+    cede9a8de28b4baaacbf4692e418c45e:
+      title: CI_Pāyantika 173
+      base_file: CI_Pāyantika 173.txt
+      work_id: WCC02CD54
+    7e39ddba13914d208ddf27ef4f2b3f42:
+      title: CI_Pāyantika 174
+      base_file: CI_Pāyantika 174.txt
+      work_id: WD28F1AAA
+    b1a8f298ec374e5ba3c75b114a3d6ba5:
+      title: CI_Pāyantika 175
+      base_file: CI_Pāyantika 175.txt
+      work_id: W51A422C4
+    75d2b74b03234d12b0c2ecf69b0a7b68:
+      title: CI_Pāyantika 176
+      base_file: CI_Pāyantika 176.txt
+      work_id: W9C2BF51C
+    9e518021884d44e0ac05211f9f35b91f:
+      title: CI_Pāyantika 177
+      base_file: CI_Pāyantika 177.txt
+      work_id: WD1E44040
+    aacc10a002a04c41a97ba08116f8c3c3:
+      title: CI_Pāyantika 178
+      base_file: CI_Pāyantika 178.txt
+      work_id: WCA5ABEC4
+    95267a64b69b4e188d035fa7659129b2:
+      title: CI_Pāyantika 179
+      base_file: CI_Pāyantika 179.txt
+      work_id: WDE64DB0D
+    4f5ed5018cf340b897ff026ed2990164:
+      title: CI_Pāyantika 18
+      base_file: CI_Pāyantika 18.txt
+      work_id: WB9BE7A1E
+    818e7c79a9664597a05a2b0d4618bcea:
+      title: CI_Pāyantika 180
+      base_file: CI_Pāyantika 180.txt
+      work_id: WB688126B
+    2ba403f74ef342edacb17f2dc9fdaccd:
+      title: CI_Pāyantika 181
+      base_file: CI_Pāyantika 181.txt
+      work_id: W03ED7ADE
+    9233585dfebe4bc3887301a2ec5310c7:
+      title: CI_Pāyantika 19
+      base_file: CI_Pāyantika 19.txt
+      work_id: W7DD7DD44
+    541ffcc4ecb8450d90c39dca75fa8e6d:
+      title: CI_Pāyantika 2
+      base_file: CI_Pāyantika 2.txt
+      work_id: W902DB5E1
+    d835e3d1a2804b8d867d1a523f97d87b:
+      title: CI_Pāyantika 20
+      base_file: CI_Pāyantika 20.txt
+      work_id: W1997F733
+    d7b124dacd3f45c3aaae7c4249149ac8:
+      title: CI_Pāyantika 21
+      base_file: CI_Pāyantika 21.txt
+      work_id: W555AE028
+    9e96cbe1cae34be7a155f1e37f6be781:
+      title: CI_Pāyantika 22
+      base_file: CI_Pāyantika 22.txt
+      work_id: W45905E00
+    4d4f16d7d68e49e3a07063c71e1902e8:
+      title: CI_Pāyantika 23
+      base_file: CI_Pāyantika 23.txt
+      work_id: W74DDC4CC
+    f422e4c31d444f09a01c8b32491abde6:
+      title: CI_Pāyantika 24
+      base_file: CI_Pāyantika 24.txt
+      work_id: WFA48AFF3
+    9aed233318de400081ef428b78aa06ef:
+      title: CI_Pāyantika 25
+      base_file: CI_Pāyantika 25.txt
+      work_id: W17791798
+    18e32e90fedf4cdd95cbe05fc23cacfc:
+      title: CI_Pāyantika 26
+      base_file: CI_Pāyantika 26.txt
+      work_id: WAA8F825C
+    a29e730d96ea4f2a9417e19196d2a334:
+      title: CI_Pāyantika 27
+      base_file: CI_Pāyantika 27.txt
+      work_id: W03D0D700
+    0b661aba2ef54e2996a375224cc53974:
+      title: CI_Pāyantika 28
+      base_file: CI_Pāyantika 28.txt
+      work_id: W6DE5E78D
+    d3ff332dac5847d5afe3f3bb2e8de1e7:
+      title: CI_Pāyantika 29
+      base_file: CI_Pāyantika 29.txt
+      work_id: W36E60315
+    9d72030884734e2ca345b529e82b4718:
+      title: CI_Pāyantika 3
+      base_file: CI_Pāyantika 3.txt
+      work_id: W92955595
+    84db1e2377924b3ea7ac58945ff5fe38:
+      title: CI_Pāyantika 30
+      base_file: CI_Pāyantika 30.txt
+      work_id: W3E9480EB
+    da25e2d2e5004790b02a0e882e253a3a:
+      title: CI_Pāyantika 31
+      base_file: CI_Pāyantika 31.txt
+      work_id: WE51A4164
+    6ea5196d4dee48f0829d7a5f6869a7d5:
+      title: CI_Pāyantika 32
+      base_file: CI_Pāyantika 32.txt
+      work_id: W9CA187B1
+    2c2328cb84574031860db23006d15d22:
+      title: CI_Pāyantika 33
+      base_file: CI_Pāyantika 33.txt
+      work_id: WB963E699
+    aae8db0691724926821a908caea8dfc8:
+      title: CI_Pāyantika 34
+      base_file: CI_Pāyantika 34.txt
+      work_id: WC07A4607
+    9d80354168964a949b094553cce8aa05:
+      title: CI_Pāyantika 35
+      base_file: CI_Pāyantika 35.txt
+      work_id: WAAFF743E
+    b1f673cfcee847008123d34e04b7dfa8:
+      title: CI_Pāyantika 36
+      base_file: CI_Pāyantika 36.txt
+      work_id: WAB7CA4BE
+    673332c765a9465fbc445d10199268d3:
+      title: CI_Pāyantika 37
+      base_file: CI_Pāyantika 37.txt
+      work_id: W94BEB49C
+    c8af421e81f14889a26b0056395445ab:
+      title: CI_Pāyantika 38
+      base_file: CI_Pāyantika 38.txt
+      work_id: W88F9C7DF
+    6f041634c1ef480da9f5fb64819e25a2:
+      title: CI_Pāyantika 39
+      base_file: CI_Pāyantika 39.txt
+      work_id: W81C9DE6D
+    4c7ceeb8cf9b41eda9d97cdeabe6df7f:
+      title: CI_Pāyantika 4
+      base_file: CI_Pāyantika 4.txt
+      work_id: W0A054C62
+    4af03cd2e73549868f79a0b39bf6b6eb:
+      title: CI_Pāyantika 40
+      base_file: CI_Pāyantika 40.txt
+      work_id: WF054AFE6
+    9b4b2bc7fe7a4bf3a16bde581fa6ea89:
+      title: CI_Pāyantika 41
+      base_file: CI_Pāyantika 41.txt
+      work_id: W11038370
+    cf9edb61b71842f8834a4e107373b93c:
+      title: CI_Pāyantika 42
+      base_file: CI_Pāyantika 42.txt
+      work_id: WE1A9D766
+    4da28a6c11ec435c8b03e2800549d878:
+      title: CI_Pāyantika 43
+      base_file: CI_Pāyantika 43.txt
+      work_id: W20621939
+    cd1e47050dd34b9db3842a4eba86a1dc:
+      title: CI_Pāyantika 44
+      base_file: CI_Pāyantika 44.txt
+      work_id: WC8A9A60B
+    1cbdf843bdcc40f5af824b1100cc0278:
+      title: CI_Pāyantika 45
+      base_file: CI_Pāyantika 45.txt
+      work_id: WC8B0598E
+    6cb8dcfe30dc40f18ff299798f033737:
+      title: CI_Pāyantika 46
+      base_file: CI_Pāyantika 46.txt
+      work_id: WABA4A7C0
+    65b74edcc8e74a0f953eb09d4b89d505:
+      title: CI_Pāyantika 47
+      base_file: CI_Pāyantika 47.txt
+      work_id: W61260633
+    c36be9d4e8c949de83c6ecb30447eed2:
+      title: CI_Pāyantika 48
+      base_file: CI_Pāyantika 48.txt
+      work_id: WA981BA1B
+    0bdd4ccabf84400e9c33d90cc635599a:
+      title: CI_Pāyantika 49
+      base_file: CI_Pāyantika 49.txt
+      work_id: W8E888386
+    657ec04e6a0944f0973585fe98baea51:
+      title: CI_Pāyantika 5
+      base_file: CI_Pāyantika 5.txt
+      work_id: W7AF4D8DC
+    0a6e0af5872044f6ae1a9e9d6813b45c:
+      title: CI_Pāyantika 50
+      base_file: CI_Pāyantika 50.txt
+      work_id: W300BC0E3
+    956e5226ef214c3db8b4658a41cabfd5:
+      title: CI_Pāyantika 51
+      base_file: CI_Pāyantika 51.txt
+      work_id: W66C2D806
+    8ecdca53d0f54fe98160b827c3142d72:
+      title: CI_Pāyantika 52
+      base_file: CI_Pāyantika 52.txt
+      work_id: W6514C70C
+    30b0f51e35e8405ca3abf7558ad09c9a:
+      title: CI_Pāyantika 53
+      base_file: CI_Pāyantika 53.txt
+      work_id: WFFBAF9D4
+    4560fd84aed449dda3aa758ac02858e4:
+      title: CI_Pāyantika 54
+      base_file: CI_Pāyantika 54.txt
+      work_id: W2B0BD9A3
+    134914d232ee4a50a0c4df0ddf1dca48:
+      title: CI_Pāyantika 55
+      base_file: CI_Pāyantika 55.txt
+      work_id: WE5582E09
+    78c2e2a72f0749668eba5ac708e78b1d:
+      title: CI_Pāyantika 56
+      base_file: CI_Pāyantika 56.txt
+      work_id: WEB16C9C8
+    d51b74b05cf548daa75c8ebdab6778f1:
+      title: CI_Pāyantika 57
+      base_file: CI_Pāyantika 57.txt
+      work_id: W08019F85
+    66096ab46c5b478cb3ff567d1a0f1b83:
+      title: CI_Pāyantika 58
+      base_file: CI_Pāyantika 58.txt
+      work_id: W9C33AD90
+    0fb3f29471e84ebd85717d86aa171883:
+      title: CI_Pāyantika 59
+      base_file: CI_Pāyantika 59.txt
+      work_id: W20F88F8A
+    c40c645f2daa4e17a3e16b198d72f63f:
+      title: CI_Pāyantika 6
+      base_file: CI_Pāyantika 6.txt
+      work_id: WDD785E29
+    bf8ccad6ed7c4720b1814116b547cc5b:
+      title: CI_Pāyantika 60
+      base_file: CI_Pāyantika 60.txt
+      work_id: WF683E5B6
+    9c5e6cb98f6e43fdb242d6093a6423dd:
+      title: CI_Pāyantika 61
+      base_file: CI_Pāyantika 61.txt
+      work_id: WE4324132
+    0c4af3c56f8f4a80a1eb497791d179bd:
+      title: CI_Pāyantika 62
+      base_file: CI_Pāyantika 62.txt
+      work_id: WD0444A7A
+    d3b17a00efef4f3b86d851134f473574:
+      title: CI_Pāyantika 63
+      base_file: CI_Pāyantika 63.txt
+      work_id: W53C589C2
+    d4f2fd4621a7422c830764e9e9911f72:
+      title: CI_Pāyantika 64
+      base_file: CI_Pāyantika 64.txt
+      work_id: WF39A4153
+    74f368cec5534ef8bae37eb3e5174975:
+      title: CI_Pāyantika 65
+      base_file: CI_Pāyantika 65.txt
+      work_id: WFFB6CCD9
+    a08d25754f40476eacdf7e1b58f1a82f:
+      title: CI_Pāyantika 66
+      base_file: CI_Pāyantika 66.txt
+      work_id: W2D0D34B6
+    a2a601942c224addad640cef96ea6ffc:
+      title: CI_Pāyantika 67
+      base_file: CI_Pāyantika 67.txt
+      work_id: WCF9F6EF8
+    55acb3c9b2c145d5ace0bccacc4d29c3:
+      title: CI_Pāyantika 68
+      base_file: CI_Pāyantika 68.txt
+      work_id: W52A41B4C
+    eb154495531e4aab9a333859080ef06c:
+      title: CI_Pāyantika 69
+      base_file: CI_Pāyantika 69.txt
+      work_id: WF576FB7E
+    77c64c8417b54e48a6c473d28375331a:
+      title: CI_Pāyantika 7
+      base_file: CI_Pāyantika 7.txt
+      work_id: W2B9FB09C
+    c9c023bc7e4d4ad78c87ea6d04053287:
+      title: CI_Pāyantika 70
+      base_file: CI_Pāyantika 70.txt
+      work_id: W4EBD4FBE
+    c986e6ecf04245618c11bd8191d80d55:
+      title: CI_Pāyantika 71
+      base_file: CI_Pāyantika 71.txt
+      work_id: WD7BB5B67
+    3395650b8053421b860116a1ef6e6ddb:
+      title: CI_Pāyantika 72
+      base_file: CI_Pāyantika 72.txt
+      work_id: W598AA294
+    4a5b3066febb4a34b5dc95770036d8f7:
+      title: CI_Pāyantika 73
+      base_file: CI_Pāyantika 73.txt
+      work_id: W9B04BB14
+    fce1c08112974e1a9742b088c3b401be:
+      title: CI_Pāyantika 74
+      base_file: CI_Pāyantika 74.txt
+      work_id: W88B78294
+    75f078929de3429c8e7f21ccb1865c0c:
+      title: CI_Pāyantika 75
+      base_file: CI_Pāyantika 75.txt
+      work_id: W36AB41BB
+    fcd9633b4a4e4b698d8a8cf62c85a47c:
+      title: CI_Pāyantika 76
+      base_file: CI_Pāyantika 76.txt
+      work_id: W5720BB44
+    fde419eae4374648b5ecacb28f9bb85e:
+      title: CI_Pāyantika 77
+      base_file: CI_Pāyantika 77.txt
+      work_id: W20B346A0
+    986b6fc50c274edcb060f26eca102a88:
+      title: CI_Pāyantika 78
+      base_file: CI_Pāyantika 78.txt
+      work_id: W388CCC6E
+    79d24146d4e743878c0ba79506920250:
+      title: CI_Pāyantika 79
+      base_file: CI_Pāyantika 79.txt
+      work_id: WB9707B0C
+    94e0c40f00a84b0ab394e11da6406cd0:
+      title: CI_Pāyantika 8
+      base_file: CI_Pāyantika 8.txt
+      work_id: WF6A6660D
+    f24425d2ab804621b37aee88e9001033:
+      title: CI_Pāyantika 80
+      base_file: CI_Pāyantika 80.txt
+      work_id: WF4FCC5A7
+    7e52ca1e26dd44efa324d4df03b1bd88:
+      title: CI_Pāyantika 81
+      base_file: CI_Pāyantika 81.txt
+      work_id: WBFC96EC7
+    5c8c7e19bf614c0298d640dc13e77e3c:
+      title: CI_Pāyantika 82
+      base_file: CI_Pāyantika 82.txt
+      work_id: W89634A4F
+    50726e1d78e5463cbc6226e5b475a9bc:
+      title: CI_Pāyantika 83
+      base_file: CI_Pāyantika 83.txt
+      work_id: W5270FE95
+    2fdde3af71af47d7829f1a4efb7fe59c:
+      title: CI_Pāyantika 84
+      base_file: CI_Pāyantika 84.txt
+      work_id: W367476F7
+    8d0adb7420ef4b3bbcfe96d868dc5e35:
+      title: CI_Pāyantika 85
+      base_file: CI_Pāyantika 85.txt
+      work_id: W7D227532
+    dde423fd320d4b5c96a92d6bbbddbe57:
+      title: CI_Pāyantika 86
+      base_file: CI_Pāyantika 86.txt
+      work_id: WB0C8C6E0
+    4ed31eb5cdf54e36b64d55d5136807c5:
+      title: CI_Pāyantika 87
+      base_file: CI_Pāyantika 87.txt
+      work_id: W9467639D
+    3585baf2ae74415382e1de337aaca679:
+      title: CI_Pāyantika 88
+      base_file: CI_Pāyantika 88.txt
+      work_id: W0C74EA88
+    a1f7881488fa4296a229ab4dd60acb75:
+      title: CI_Pāyantika 89
+      base_file: CI_Pāyantika 89.txt
+      work_id: W8888A094
+    8d14bfb14999448baba63a7e248bab14:
+      title: CI_Pāyantika 9
+      base_file: CI_Pāyantika 9.txt
+      work_id: WC5FC872A
+    a6bf989df51a4e319da483530a763de8:
+      title: CI_Pāyantika 90
+      base_file: CI_Pāyantika 90.txt
+      work_id: W3B486599
+    016b027311ed4ceca244a46bc38cdb34:
+      title: CI_Pāyantika 91
+      base_file: CI_Pāyantika 91.txt
+      work_id: WE7E351AD
+    5445bb6fe587422e9fa1c4b7b9132ed4:
+      title: CI_Pāyantika 92
+      base_file: CI_Pāyantika 92.txt
+      work_id: W3BB80A64
+    c2448c557dca40a08e41b2c6791c6d95:
+      title: CI_Pāyantika 93
+      base_file: CI_Pāyantika 93.txt
+      work_id: WA8C4CCAF
+    72ded848a1af4558a1d5698d1d88871d:
+      title: CI_Pāyantika 94
+      base_file: CI_Pāyantika 94.txt
+      work_id: W1E9F046E
+    f86fbe9a40a040858c0b2e14afaf3e42:
+      title: CI_Pāyantika 95
+      base_file: CI_Pāyantika 95.txt
+      work_id: WA9AA3E2B
+    f8b029a03ae64e09b5063262f6f60004:
+      title: CI_Pāyantika 96
+      base_file: CI_Pāyantika 96.txt
+      work_id: WA48248F4
+    eb08c800f26b46ea939c7a9f89be64c3:
+      title: CI_Pāyantika 97
+      base_file: CI_Pāyantika 97.txt
+      work_id: W939F7F39
+    683a8d8e79dd44348170b2291e67abc8:
+      title: CI_Pāyantika 98
+      base_file: CI_Pāyantika 98.txt
+      work_id: W46E4968F
+    fc88c488b3ea4a2d8ae28f0f1d114b52:
+      title: CI_Pāyantika 99
+      base_file: CI_Pāyantika 99.txt
+      work_id: W80368FA3
+    a5fa74198e7843d988b27182b167f26d:
+      title: CI_Saṃghāvaśeṣa 1
+      base_file: CI_Saṃghāvaśeṣa 1.txt
+      work_id: WB8B57D41
+    3c7a3365a99444d3929c14a13f013560:
+      title: CI_Saṃghāvaśeṣa 10
+      base_file: CI_Saṃghāvaśeṣa 10.txt
+      work_id: WCD140BED
+    81dce68ec880409cbe9a0d958aace864:
+      title: CI_Saṃghāvaśeṣa 11
+      base_file: CI_Saṃghāvaśeṣa 11.txt
+      work_id: WA777CC0E
+    f81f388f5a8d4c2c916a809830759ceb:
+      title: CI_Saṃghāvaśeṣa 12
+      base_file: CI_Saṃghāvaśeṣa 12.txt
+      work_id: W60163290
+    7c79a534edb442ed92b6cf364aa6db92:
+      title: CI_Saṃghāvaśeṣa 13
+      base_file: CI_Saṃghāvaśeṣa 13.txt
+      work_id: WE08C53B3
+    401ecfa8a1ab448ba275b6aed00688ba:
+      title: CI_Saṃghāvaśeṣa 14
+      base_file: CI_Saṃghāvaśeṣa 14.txt
+      work_id: WF5E8D886
+    7a397d522b264c23b7bda66168185e5a:
+      title: CI_Saṃghāvaśeṣa 15
+      base_file: CI_Saṃghāvaśeṣa 15.txt
+      work_id: W860334C8
+    0efec368e08d402e88fbf91bddc1396f:
+      title: CI_Saṃghāvaśeṣa 16
+      base_file: CI_Saṃghāvaśeṣa 16.txt
+      work_id: W2154A5AE
+    9f7753d3eb3d44ceb4c4b3e374973be0:
+      title: CI_Saṃghāvaśeṣa 17
+      base_file: CI_Saṃghāvaśeṣa 17.txt
+      work_id: WDE8AE155
+    32c7375227b640a4a71a1c9835c338fd:
+      title: CI_Saṃghāvaśeṣa 18
+      base_file: CI_Saṃghāvaśeṣa 18.txt
+      work_id: WC5BCA859
+    a536ea4ef4eb45f9ab94b14c8ea8a5b0:
+      title: CI_Saṃghāvaśeṣa 19
+      base_file: CI_Saṃghāvaśeṣa 19.txt
+      work_id: W8DA48E16
+    df4b900f203f4803bb53790afa9303e9:
+      title: CI_Saṃghāvaśeṣa 2
+      base_file: CI_Saṃghāvaśeṣa 2.txt
+      work_id: WEFA5888A
+    881c9a2555184874b1689399e81605e2:
+      title: CI_Saṃghāvaśeṣa 20
+      base_file: CI_Saṃghāvaśeṣa 20.txt
+      work_id: WEC887535
+    09677e460ab04ee2bf006a1ce7aec22b:
+      title: CI_Saṃghāvaśeṣa 3
+      base_file: CI_Saṃghāvaśeṣa 3.txt
+      work_id: WC15441A9
+    cf514417ceb9470fbc1b4cdb8768993e:
+      title: CI_Saṃghāvaśeṣa 4
+      base_file: CI_Saṃghāvaśeṣa 4.txt
+      work_id: W89BAB21D
+    918ec76f79d249b996f3464050b49247:
+      title: CI_Saṃghāvaśeṣa 5
+      base_file: CI_Saṃghāvaśeṣa 5.txt
+      work_id: W2DE0BDA6
+    4b15bd12513c4e99b431b37b43de4a5c:
+      title: CI_Saṃghāvaśeṣa 6
+      base_file: CI_Saṃghāvaśeṣa 6.txt
+      work_id: WA3A99CFE
+    7cefc4d6434a4452b96fedc3066cef0e:
+      title: CI_Saṃghāvaśeṣa 7
+      base_file: CI_Saṃghāvaśeṣa 7.txt
+      work_id: WF97FBF6F
+    c6dac27c0f2947b09f52acc7863f725c:
+      title: CI_Saṃghāvaśeṣa 8
+      base_file: CI_Saṃghāvaśeṣa 8.txt
+      work_id: W43E17451
+    1989567fe5e441a5858facc3eb5e032c:
+      title: CI_Saṃghāvaśeṣa 9
+      base_file: CI_Saṃghāvaśeṣa 9.txt
+      work_id: WA81A67B8
+    6827bbf3af4a4e918a753908bd1a283a:
+      title: CI_Śaikṣa 1
+      base_file: CI_Śaikṣa 1.txt
+      work_id: WFA4A4A68
+    5d2a6ceefaa8484abf024b732cec98d0:
+      title: CI_Śaikṣa 10
+      base_file: CI_Śaikṣa 10.txt
+      work_id: WB3D5E99B
+    170309398e694807b205eed470dc1ab9:
+      title: CI_Śaikṣa 101
+      base_file: CI_Śaikṣa 101.txt
+      work_id: W93D83FFB
+    6484aa0c6d5341b9a14986291cca175c:
+      title: CI_Śaikṣa 102
+      base_file: CI_Śaikṣa 102.txt
+      work_id: W670678DE
+    8cf0cf231f624831bb33605059706e2e:
+      title: CI_Śaikṣa 103
+      base_file: CI_Śaikṣa 103.txt
+      work_id: W243BA080
+    372b25fb568540b8b49d73c9cf770bfa:
+      title: CI_Śaikṣa 104
+      base_file: CI_Śaikṣa 104.txt
+      work_id: WC8C4ABD0
+    86cb664c4a9a40bc8d31215bd3e85c13:
+      title: CI_Śaikṣa 105
+      base_file: CI_Śaikṣa 105.txt
+      work_id: WACB9B0B7
+    140bad704457401aa7deffa85c388397:
+      title: CI_Śaikṣa 106
+      base_file: CI_Śaikṣa 106.txt
+      work_id: W5DEDD3BB
+    40d9f5e2a92042beb26f17e0fd409e6d:
+      title: CI_Śaikṣa 107
+      base_file: CI_Śaikṣa 107.txt
+      work_id: W085128CE
+    1e990cf42f3047ad897ba97187dfc277:
+      title: CI_Śaikṣa 108
+      base_file: CI_Śaikṣa 108.txt
+      work_id: W551B1E13
+    ff3862906e4d46fb85cef9f21a116836:
+      title: CI_Śaikṣa 11
+      base_file: CI_Śaikṣa 11.txt
+      work_id: WBC7F3ACC
+    e650581d4ad3463a87d7f554796c86a6:
+      title: CI_Śaikṣa 12
+      base_file: CI_Śaikṣa 12.txt
+      work_id: W36646D2D
+    ffd06557945e40e0a5cee6c0f12fb5be:
+      title: CI_Śaikṣa 13
+      base_file: CI_Śaikṣa 13.txt
+      work_id: WBF8133C0
+    88e9c7c9c1be4cb09ee8cc5657dc48c1:
+      title: CI_Śaikṣa 14
+      base_file: CI_Śaikṣa 14.txt
+      work_id: W64EEEBC7
+    50f51703b2754a57a63a14b7c77bc664:
+      title: CI_Śaikṣa 15
+      base_file: CI_Śaikṣa 15.txt
+      work_id: W35F32256
+    05327d46274940e283959f2026dfdeb3:
+      title: CI_Śaikṣa 16
+      base_file: CI_Śaikṣa 16.txt
+      work_id: W49434082
+    00f8b834097d4a108650e57791478b84:
+      title: CI_Śaikṣa 17
+      base_file: CI_Śaikṣa 17.txt
+      work_id: WE87811BD
+    e61320a10e094125b79f9923321ed580:
+      title: CI_Śaikṣa 18
+      base_file: CI_Śaikṣa 18.txt
+      work_id: WA026D160
+    19f7c3d2600342db9d8ee703b9e09376:
+      title: CI_Śaikṣa 19
+      base_file: CI_Śaikṣa 19.txt
+      work_id: W3CBD5332
+    66e4e3197eed44a4861c57f2b25e315d:
+      title: CI_Śaikṣa 2
+      base_file: CI_Śaikṣa 2.txt
+      work_id: W854BF854
+    cd6b4318013741fe937b3ee7a72a3920:
+      title: CI_Śaikṣa 20
+      base_file: CI_Śaikṣa 20.txt
+      work_id: W6BCA5436
+    39460d7d2b4b45e89ea0bbfa4a1ef932:
+      title: CI_Śaikṣa 21
+      base_file: CI_Śaikṣa 21.txt
+      work_id: WA9A46948
+    a8b4f3129b154a178555b9ce974b498a:
+      title: CI_Śaikṣa 22
+      base_file: CI_Śaikṣa 22.txt
+      work_id: WBCA383B2
+    3ed1d08d0cd54785beed4e12c9b240f2:
+      title: CI_Śaikṣa 23
+      base_file: CI_Śaikṣa 23.txt
+      work_id: W44A6A99A
+    7e46e04b2f4b48429fca61b3b4950f18:
+      title: CI_Śaikṣa 24
+      base_file: CI_Śaikṣa 24.txt
+      work_id: WB4919C27
+    bb42c3ef310348338190bb82340c9673:
+      title: CI_Śaikṣa 25
+      base_file: CI_Śaikṣa 25.txt
+      work_id: WCD9BF718
+    19824b2a3dfb40c9b1a5e107064262a7:
+      title: CI_Śaikṣa 26
+      base_file: CI_Śaikṣa 26.txt
+      work_id: WEB53A751
+    2ada22cfb5274f9d938672d6390d9cea:
+      title: CI_Śaikṣa 27
+      base_file: CI_Śaikṣa 27.txt
+      work_id: W4122D315
+    d51cef3daba94b8098f2ef7cfecb0c35:
+      title: CI_Śaikṣa 28
+      base_file: CI_Śaikṣa 28.txt
+      work_id: W60622113
+    db40984ca22b42c9a629bafe6ad6f998:
+      title: CI_Śaikṣa 29
+      base_file: CI_Śaikṣa 29.txt
+      work_id: WE87BFC44
+    4279797018c649559b69cd8eb1a9d20f:
+      title: CI_Śaikṣa 3
+      base_file: CI_Śaikṣa 3.txt
+      work_id: W0FB8DC4F
+    d4e999548b844845ae4b6c7e187afa8b:
+      title: CI_Śaikṣa 30
+      base_file: CI_Śaikṣa 30.txt
+      work_id: WBE52524E
+    81ad16bf335c47248a7ec49b86cc97a0:
+      title: CI_Śaikṣa 31
+      base_file: CI_Śaikṣa 31.txt
+      work_id: WD800F211
+    cd4b3ea69e6c4b8d823d7e1df34abbdc:
+      title: CI_Śaikṣa 32
+      base_file: CI_Śaikṣa 32.txt
+      work_id: W522DCDB3
+    e32927a8f9214e3aa4f4db2614c22061:
+      title: CI_Śaikṣa 33
+      base_file: CI_Śaikṣa 33.txt
+      work_id: WA797EE7F
+    e998f0ec6f3b48b5828b86b689cb2feb:
+      title: CI_Śaikṣa 34
+      base_file: CI_Śaikṣa 34.txt
+      work_id: WDFB606B3
+    b1d846e07d324715a618749804cdcf2d:
+      title: CI_Śaikṣa 35
+      base_file: CI_Śaikṣa 35.txt
+      work_id: WCBBBB0C1
+    11e48fa02aab4038852b8b6699e18323:
+      title: CI_Śaikṣa 36
+      base_file: CI_Śaikṣa 36.txt
+      work_id: WA413CB93
+    86cd2d5da91a43f0aaa3a545d7ec018b:
+      title: CI_Śaikṣa 37
+      base_file: CI_Śaikṣa 37.txt
+      work_id: WD1C2E9E0
+    598a80e0e7364680b30bfadda88c8c3f:
+      title: CI_Śaikṣa 38
+      base_file: CI_Śaikṣa 38.txt
+      work_id: WEE708E93
+    e00a88064fe5463291bad114c64e5785:
+      title: CI_Śaikṣa 39
+      base_file: CI_Śaikṣa 39.txt
+      work_id: W8E334931
+    cdb3293685fd4ea8b32d4f5f516483f7:
+      title: CI_Śaikṣa 4
+      base_file: CI_Śaikṣa 4.txt
+      work_id: W0E120F58
+    cbf5526dcff44fb887a4a3cfa6908a8a:
+      title: CI_Śaikṣa 40
+      base_file: CI_Śaikṣa 40.txt
+      work_id: WF39EBCB2
+    e58651323a734467888c2519e33e5aa5:
+      title: CI_Śaikṣa 41
+      base_file: CI_Śaikṣa 41.txt
+      work_id: W212AA23D
+    a1ac003719db4c619134022b78b50ed5:
+      title: CI_Śaikṣa 42
+      base_file: CI_Śaikṣa 42.txt
+      work_id: W1EB6E14F
+    9b27683732b34e3694cf12c4a925b649:
+      title: CI_Śaikṣa 43
+      base_file: CI_Śaikṣa 43.txt
+      work_id: W4B6B303F
+    32cfa1dd73854e03b88df4d0b4d261d1:
+      title: CI_Śaikṣa 44
+      base_file: CI_Śaikṣa 44.txt
+      work_id: WB40FB5D2
+    c92aa43c664e466ea5bcdfd8ba7cb2f2:
+      title: CI_Śaikṣa 45
+      base_file: CI_Śaikṣa 45.txt
+      work_id: WA94EEA3E
+    14ec533d9dbe465bae41ae976e71df5a:
+      title: CI_Śaikṣa 46
+      base_file: CI_Śaikṣa 46.txt
+      work_id: W5DCBBDEA
+    77e3d3c9e9aa4f0a8725289fbc61ffef:
+      title: CI_Śaikṣa 47
+      base_file: CI_Śaikṣa 47.txt
+      work_id: W84D3D283
+    09f4845252ba4f4698664eb82b9f9610:
+      title: CI_Śaikṣa 48
+      base_file: CI_Śaikṣa 48.txt
+      work_id: W3E464844
+    01918cfec8a94caeb35d4bd986196d36:
+      title: CI_Śaikṣa 49
+      base_file: CI_Śaikṣa 49.txt
+      work_id: W5F08351C
+    b5be37d2b38e486e8398c479edea2e78:
+      title: CI_Śaikṣa 5
+      base_file: CI_Śaikṣa 5.txt
+      work_id: W4D74304F
+    1b498257165a4ff68d3af434eb9e2033:
+      title: CI_Śaikṣa 50
+      base_file: CI_Śaikṣa 50.txt
+      work_id: W85779118
+    fefd9ff049fd4969afa68df6b36c57b7:
+      title: CI_Śaikṣa 51
+      base_file: CI_Śaikṣa 51.txt
+      work_id: W3B7E4B38
+    91d52bff338d463f9fef141eeb960a2a:
+      title: CI_Śaikṣa 52
+      base_file: CI_Śaikṣa 52.txt
+      work_id: WAAF5A19A
+    29bbfe32380d42009d6365e65f553af3:
+      title: CI_Śaikṣa 53
+      base_file: CI_Śaikṣa 53.txt
+      work_id: WFF787077
+    f5a12a7301d7401cb2748b510846ea3e:
+      title: CI_Śaikṣa 54
+      base_file: CI_Śaikṣa 54.txt
+      work_id: WC94DFC18
+    0acc3624bb1946dab1cc5ffc356d5ba4:
+      title: CI_Śaikṣa 55
+      base_file: CI_Śaikṣa 55.txt
+      work_id: W352919F4
+    79e5bfdfa0cb4e1c91a00b9a4af07f2c:
+      title: CI_Śaikṣa 56
+      base_file: CI_Śaikṣa 56.txt
+      work_id: W598B0430
+    3baa030899784acd93108e77e645f7d1:
+      title: CI_Śaikṣa 57
+      base_file: CI_Śaikṣa 57.txt
+      work_id: WBAC060AC
+    7c4fcda0be7d4f8ba90edc58d3f8b388:
+      title: CI_Śaikṣa 58
+      base_file: CI_Śaikṣa 58.txt
+      work_id: WE5DE35EF
+    cd7c08177158401ea89896feedc2ed63:
+      title: CI_Śaikṣa 59
+      base_file: CI_Śaikṣa 59.txt
+      work_id: WA333CB34
+    6b14a42f791f465f8a87e971b9b31e35:
+      title: CI_Śaikṣa 6
+      base_file: CI_Śaikṣa 6.txt
+      work_id: W0373CB4D
+    da694af24fae429da748a6797523dcda:
+      title: CI_Śaikṣa 60
+      base_file: CI_Śaikṣa 60.txt
+      work_id: W5C85C2F6
+    5a0342b499114e1891f91578acc8c07c:
+      title: CI_Śaikṣa 61
+      base_file: CI_Śaikṣa 61.txt
+      work_id: WE5A490C0
+    cd7a48dae0804588807c8f95298007bb:
+      title: CI_Śaikṣa 62
+      base_file: CI_Śaikṣa 62.txt
+      work_id: W0364CBF9
+    6ebafcdcfbfb4af59a3f10a7ef1644e3:
+      title: CI_Śaikṣa 63
+      base_file: CI_Śaikṣa 63.txt
+      work_id: W5578EE7B
+    e8b5886b292648dd8192b5128e49bede:
+      title: CI_Śaikṣa 64
+      base_file: CI_Śaikṣa 64.txt
+      work_id: WC05375D4
+    386ea5a3de604dfabcfb14282d2635f6:
+      title: CI_Śaikṣa 65
+      base_file: CI_Śaikṣa 65.txt
+      work_id: WBC2243B6
+    d6e0f3e5a14646c088e322dc82f7b927:
+      title: CI_Śaikṣa 66
+      base_file: CI_Śaikṣa 66.txt
+      work_id: WEAAD743D
+    94c351cec02745119b90e624f82fb01e:
+      title: CI_Śaikṣa 67
+      base_file: CI_Śaikṣa 67.txt
+      work_id: WC133EE5E
+    4e539e49baa34ff994e701d76e26e2fb:
+      title: CI_Śaikṣa 68
+      base_file: CI_Śaikṣa 68.txt
+      work_id: WEF9F58A5
+    915579615f4e4975ac56d489ef4fb977:
+      title: CI_Śaikṣa 69
+      base_file: CI_Śaikṣa 69.txt
+      work_id: W277EE672
+    d8768cac538f42c3a0893ecef6d5560c:
+      title: CI_Śaikṣa 7
+      base_file: CI_Śaikṣa 7.txt
+      work_id: W32237807
+    5e397ea61ae64fe6aa6b4ea054480de4:
+      title: CI_Śaikṣa 70
+      base_file: CI_Śaikṣa 70.txt
+      work_id: WDD9A08D1
+    00ef092c96a34f97925aa62ef2c8fb80:
+      title: CI_Śaikṣa 71
+      base_file: CI_Śaikṣa 71.txt
+      work_id: W520B9D02
+    b1dd29a1a8fd4c49a2335b70abc62cfb:
+      title: CI_Śaikṣa 72
+      base_file: CI_Śaikṣa 72.txt
+      work_id: WE7778EE6
+    859aaf15cf5b463895ccaf1613383ca3:
+      title: CI_Śaikṣa 73
+      base_file: CI_Śaikṣa 73.txt
+      work_id: WAA6A3E6D
+    ef56830a44204f1fb415b86aa69d0e64:
+      title: CI_Śaikṣa 74
+      base_file: CI_Śaikṣa 74.txt
+      work_id: WCB583C75
+    c4fc8c790a9f4dd9b50a29a7285fa9db:
+      title: CI_Śaikṣa 75
+      base_file: CI_Śaikṣa 75.txt
+      work_id: W9D438383
+    cf580d6638244ffea4e542af7b68da9b:
+      title: CI_Śaikṣa 76
+      base_file: CI_Śaikṣa 76.txt
+      work_id: W36093F0A
+    790a21a674c14506a6d98cd2991e5c60:
+      title: CI_Śaikṣa 77
+      base_file: CI_Śaikṣa 77.txt
+      work_id: W99829D66
+    6682ae4cc0124a67b8feb9592e6c22b3:
+      title: CI_Śaikṣa 78
+      base_file: CI_Śaikṣa 78.txt
+      work_id: W5789B1B8
+    4eae176dac974f58bb9b5a367989f29d:
+      title: CI_Śaikṣa 79
+      base_file: CI_Śaikṣa 79.txt
+      work_id: WBE5ADE41
+    f1b6d918cb3449548c1e4628311832ea:
+      title: CI_Śaikṣa 8
+      base_file: CI_Śaikṣa 8.txt
+      work_id: W6C5AE465
+    5c17c59db1554edfb36ba41316074d15:
+      title: CI_Śaikṣa 80
+      base_file: CI_Śaikṣa 80.txt
+      work_id: WD499F438
+    41fab59d344a499883b2d4a1ea46ae06:
+      title: CI_Śaikṣa 81
+      base_file: CI_Śaikṣa 81.txt
+      work_id: W9998C7B5
+    f44de9f8d9d246c5904d5f6ffbbf7a7d:
+      title: CI_Śaikṣa 82
+      base_file: CI_Śaikṣa 82.txt
+      work_id: W40677928
+    888c29a348ea46bd805c6afe6fee1c3e:
+      title: CI_Śaikṣa 83
+      base_file: CI_Śaikṣa 83.txt
+      work_id: WEE40C143
+    e984d24395f7477d8a80415d85d8cb0e:
+      title: CI_Śaikṣa 84
+      base_file: CI_Śaikṣa 84.txt
+      work_id: W3E12634B
+    f8a5741fcf84435b9638cefb06228cc4:
+      title: CI_Śaikṣa 85
+      base_file: CI_Śaikṣa 85.txt
+      work_id: W4B2A8625
+    9dc3027efc4840b9b67c33735ca484d7:
+      title: CI_Śaikṣa 86
+      base_file: CI_Śaikṣa 86.txt
+      work_id: W61A66F5A
+    e1fdaec27d384c518780d6db078f2567:
+      title: CI_Śaikṣa 87
+      base_file: CI_Śaikṣa 87.txt
+      work_id: W3282646E
+    f7f7d05471f74fe398339023448d67d7:
+      title: CI_Śaikṣa 88
+      base_file: CI_Śaikṣa 88.txt
+      work_id: W4A45AA4E
+    23561700335148cea129ffc361ae7b60:
+      title: CI_Śaikṣa 89
+      base_file: CI_Śaikṣa 89.txt
+      work_id: W26D9A6EB
+    beb2cb3c3b96423389dbf6ebd1eb3793:
+      title: CI_Śaikṣa 9
+      base_file: CI_Śaikṣa 9.txt
+      work_id: W2B908135
+    4abf977525374441a86b6c314a456cd2:
+      title: CI_Śaikṣa 90
+      base_file: CI_Śaikṣa 90.txt
+      work_id: W6F8F6866
+    886dd28c78554ad78fdfe5ea3d1bd627:
+      title: CI_Śaikṣa 91
+      base_file: CI_Śaikṣa 91.txt
+      work_id: W4CF97821
+    ea628f975ea6473b871188f9379ba2d6:
+      title: CI_Śaikṣa 92
+      base_file: CI_Śaikṣa 92.txt
+      work_id: W1FF1BAFA
+    ab1a0d5ecede46d19da4c2e3cfbe6a9f:
+      title: CI_Śaikṣa 93
+      base_file: CI_Śaikṣa 93.txt
+      work_id: W2DF3122D
+    835f9a318a354e2c85f0ac02ce4b76b0:
+      title: CI_Śaikṣa 94
+      base_file: CI_Śaikṣa 94.txt
+      work_id: W16415F6F
+    ca652b64097d4054848bbec7bdac9a02:
+      title: CI_Śaikṣa 95
+      base_file: CI_Śaikṣa 95.txt
+      work_id: W42F32DA4
+    df20d4530bcc4ea198c27fb5500d7414:
+      title: CI_Śaikṣa 96
+      base_file: CI_Śaikṣa 96.txt
+      work_id: WB7B57FE3
+    77d805118a5149948b0b23ef486219f8:
+      title: CI_Śaikṣa 97
+      base_file: CI_Śaikṣa 97.txt
+      work_id: W0B9ABB67
+    3a71c40cab234ce9bbcac61afc3a32fa:
+      title: CI_Śaikṣa 98
+      base_file: CI_Śaikṣa 98.txt
+      work_id: W151507F7
+    8c6adbb92fca4b018608057149172bbc:
+      title: CI_Śaikṣa 99
+      base_file: CI_Śaikṣa 99.txt
+      work_id: W5F168646
+  chapter_to_tile:
+    CI: Bhikṣuṇīprātimokṣa
+created_at: '2022-03-01T22:50:06.204362'
+last_modified_at: '2022-03-01T22:50:06.204370'
